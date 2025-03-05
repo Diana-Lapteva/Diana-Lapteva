@@ -26,3 +26,9 @@
 | Ключевые бизнес метрики | Используя SQL, выявить тренды, отслеживать эффективность работы сервиса и принимать обоснованные решения для его улучшения, повышая удовлетворенность пользователей и бизнес-показатели. | [file](https://datalens.yandex/g8hok977mri02), [анализ](https://docs.yandex.ru/docs/view?url=ya-disk-public%3A%2F%2F5lD8Ou24DtFX%2FMRpkHH6ck7xLyUkxtYVPbFJs7fYQOetBfcESblmQbhX2rwMUrNFq%2FJ6bpmRyOJonT3VoXnDag%3D%3D&name=%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%B2%D1%8B%D1%85%20%D0%B1%D0%B8%D0%B7%D0%BD%D0%B5%D1%81-%D0%BC%D0%B5%D1%82%D1%80%D0%B8%D0%BA.docx) |
 | Дота 2 | Исследование динамики игры и поведения игроков. | [file](https://datalens.yandex/3hwnp8u1qor0q) |
 | «АиФ. Доброе сердце» | Проведение когортного анализа и расчёт ключевых метрик (Retention Rate, LTV, средний чек и MAU) для благотворителей фонда для улучшения взаимодействия и повышения эффективности работы с ними. | [file](https://datalens.yandex/nofj9b6qrm7m9) |
+
+## Django projects:
+
+| Название | Описание | Инструменты | Файл |
+|-------------|-------------|-------------|-------------|
+| Разработка приложения на основе Django | Решение алгоритмических задач, базовое оформление сайта. | python, django, css, html | [file](https://github.com/Diana-Lapteva/djangoproject/tree/main/KR) |
